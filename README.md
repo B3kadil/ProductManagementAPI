@@ -22,7 +22,7 @@ Product Management API — это RESTful API, разработанный на .
 ### 1. Клонирование репозитория
 
 - bash
-git clone https://github.com/yourusername/ProductManagementAPI.git
+git clone https://github.com/B3kadil/ProductManagementAPI.git
 cd ProductManagementAPI
 
 ### 2. Настройка строки подключения
